@@ -5,8 +5,4 @@ class Bee extends Grub {
     this.color = 'yellow';
     this.job = 'Keep on growing';
   }
-
-  eat () {
-    super.eat();
-  }
 }
